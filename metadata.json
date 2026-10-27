@@ -1,0 +1,6 @@
+{
+  "name": "Math Obby: Ultimate Math Challenge",
+  "description": "Permainan obby 3D interaktif Matematik Tingkatan 1 (Nisbah, Kadar dan Kadaran) mengikut DSKP SP 4.4.1 hingga 4.4.4 dengan watak blok 3D, halangan fizikal, dan cabaran matematik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
